@@ -1,0 +1,98 @@
+* {
+  font-family: 'Montserrat', sans-serif;
+}
+.banner {
+  background: url('https://demo3.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/04/slider-8-1.jpg');
+  /* background-size: cover; */
+  background-position-x: -293px;
+  background-position-y: -25px;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  width: 100%;
+  margin-top: -20px;
+}
+
+.banner2 {
+  background: url('https://demo3.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/04/slider-5.jpg');
+  /* background-size: cover; */
+  background-position-x: -293px;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  width: 100%;
+  margin-top: -20px;
+}
+
+#titleBanner {
+  font-size: 72px;
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  line-height: 1.1;
+}
+
+#titleBanner2 {
+  font-size: 50px;
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1.1;
+}
+
+.subForBanner2 {
+  color: #fff;
+  margin: 50px 0;
+}
+
+#explanation {
+  color: #fff;
+  text-align: center;
+  font-size: 15px;
+}
+
+#explanation span {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.ui.twitter.button.b{
+  font-size: 15px!important;
+  padding: 20px 40px;
+  margin-right: 20px;
+}
+.ui.inverted.button.b{
+  font-size: 15px!important;
+  padding: 20px 40px;
+}
+.sideBtitle {
+  color: #fff;
+  font-weight:400;
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+.titleBoard{
+  color: #fff;
+  font-Size: 32px;
+  font-weight: 600;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.titleBoard2{
+  color: #111;
+  font-Size: 32px;
+  font-weight: 600;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.muted {
+  color:#949cb0;
+}
+
+.footerText {
+  color: #949cb0;
+  font-size: 13px;
+}
+
+.active {
+  color: red;
+}

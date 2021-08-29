@@ -1,0 +1,26 @@
+{
+  "name": "entertainme",
+  "version": "1.0.0",
+  "description": "kerjakan di folder `server/monolith`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimanSinurat/entertainme.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dimanSinurat/entertainme/issues"
+  },
+  "homepage": "https://github.com/dimanSinurat/entertainme#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^4.1.0",
+    "nodemon": "^2.0.12"
+  }
+}
